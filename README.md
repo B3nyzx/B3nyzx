@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Teacher Ata</title>
+  <title>Menghsinyang</title>
   <link rel="stylesheet" href="css/styles.css">
   <link rel="icon" href="favicon.png">
 </head>
@@ -13,9 +13,9 @@
   <div class="top-container">
     <img class="top-cloud" src="images/cloud.png" alt="">
     <div class="top-text">
-      <h1 class="first-heading">I am teaching right now</h1>
-      <h1 class="second-heading">I'm Ata.</h1>
-      <h2 class="third-heading">I am a programmer</h2>
+      <h1 class="first-heading">I am studying right now</h1>
+      <h1 class="second-heading">I'm Ben.</h1>
+      <h2 class="third-heading">I am a gamer</h2>
     </div>
 
     <img class="bottom-cloud" src="images/cloud.png" alt="">
